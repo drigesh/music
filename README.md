@@ -1,6 +1,6 @@
 # Music
 
-The website has three music tools (Drum, Guitar and Piano) you can play instruments and practice [HERE](https://drigesh.github.io/music/) or copy link ```https://drigesh.github.io/music/```
+The website provides three music tools (Drum, Guitar and Piano). you can play instruments and practice [HERE](https://drigesh.github.io/music/) or copy link ```https://drigesh.github.io/music/```
 
 ## Usage
 
